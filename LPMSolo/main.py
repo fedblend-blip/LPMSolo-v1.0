@@ -14,7 +14,7 @@ ui = uic.loadUi("untitled.ui")
 #---------------------------------------------------------------------------------------
 
 TRIAL_FILE = "trial.txt"
-SECRET_KEY = "PRO-LPMS-202625062014275"
+SECRET_KEY = "There enter your license key"
 
 
 def check_and_get_trial_minutes():
